@@ -132,7 +132,7 @@
   },
   "fonts": {
     "family": "Lato",
-    "weight": 750
+    "weight": 1000
   },
   "background": {
     "decoration": "grid"
