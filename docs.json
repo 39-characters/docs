@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "night city docs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#fffb00",
+    "light": "#e9ff00",
+    "dark": "#ffec00"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -129,5 +129,12 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "fonts": {
+    "family": "Lato",
+    "weight": 700
+  },
+  "background": {
+    "decoration": "grid"
   }
 }
