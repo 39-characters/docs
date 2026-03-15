@@ -1,8 +1,7 @@
 ---
 name: "xxx"
 on:
-  push:
-    - repo: "39-characters/docs"
+  cron: "0 0 * * *"
 context:
   - repo: "39-characters/docs"
 ---
