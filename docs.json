@@ -47,8 +47,6 @@
               },
               {
                 "group": "Writing content",
-                "icon": "alarm-snooze",
-                "tag": "lol",
                 "expanded": true,
                 "pages": [
                   "essentials/markdown",
@@ -133,14 +131,14 @@
   },
   "footer": {
     "socials": {
-      "x": "https://github.com",
+      "x": "https://x.com",
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
   },
   "fonts": {
     "family": "Lato",
-    "weight": 1000
+    "weight": 400
   },
   "background": {
     "decoration": "grid"
