@@ -1,13 +1,16 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "night city docs",
+  "name": "Night City Docs",
   "colors": {
     "primary": "#fffb00",
     "light": "#e9ff00",
     "dark": "#ffec00"
   },
   "favicon": "/favicon.svg",
+  "api": {
+    "openapi": "api-reference/openapi.json"
+  },
   "navigation": {
     "global": {
       "anchors": [
@@ -25,7 +28,7 @@
     },
     "dropdowns": [
       {
-        "dropdown": "night city",
+        "dropdown": "Night City",
         "tabs": [
           {
             "tab": "Guides",
@@ -46,8 +49,8 @@
                 ]
               },
               {
-              "group": "Writing content",
-              "expanded": true,
+                "group": "Writing content",
+                "expanded": true,
                 "pages": [
                   "essentials/markdown",
                   "essentials/code",
